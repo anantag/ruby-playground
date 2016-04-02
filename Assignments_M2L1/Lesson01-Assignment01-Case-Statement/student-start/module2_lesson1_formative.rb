@@ -11,3 +11,9 @@ case
   else
     puts "I guess nothing matched... But why?"
 end
+
+puts "hello".swapcase
+
+arr = [1, "two", :three]
+
+puts arr[2]

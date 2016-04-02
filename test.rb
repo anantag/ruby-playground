@@ -3,3 +3,6 @@ x = "nil"
 if x == "nil"
 	puts "hello world"
 end
+
+p "some text"
+
