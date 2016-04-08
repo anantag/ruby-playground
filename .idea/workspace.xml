@@ -4,7 +4,6 @@
     <list default="true" id="b9de4a23-e490-4083-92f4-8774f8bab2c9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ruby-playground.iml" afterPath="$PROJECT_DIR$/.idea/ruby-playground.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignments_M2L1/Lesson03-Assignment01-Classes/student-start/module2_lesson3_formative.rb" afterPath="$PROJECT_DIR$/Assignments_M2L1/Lesson03-Assignment01-Classes/student-start/module2_lesson3_formative.rb" />
     </list>
     <ignored path="ruby-playground.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -18,18 +17,19 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ruby-playground@All_tests_in_student_start__ruby_playground.coverage" NAME="All tests in student-start: ruby-playground Coverage Results" MODIFIED="1459502913058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson02-Assignment01-Collections/student-start" MODULE_NAME="ruby-playground" />
     <SUITE FILE_PATH="coverage/ruby-playground@All_tests_in_spec__ruby_playground__1_.coverage" NAME="All tests in spec: ruby-playground (1) Coverage Results" MODIFIED="1459502959930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson02-Assignment01-Collections/student-start/spec" MODULE_NAME="ruby-playground" />
-    <SUITE FILE_PATH="coverage/ruby-playground@spec_helper.coverage" NAME="spec_helper Coverage Results" MODIFIED="1459503108154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson02-Assignment01-Collections/student-start/spec" MODULE_NAME="ruby-playground" />
     <SUITE FILE_PATH="coverage/ruby-playground@All_tests_in_spec__ruby_playground.coverage" NAME="All tests in spec: ruby-playground Coverage Results" MODIFIED="1459494411060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson01-Assignment01-Case-Statement/student-start/spec" MODULE_NAME="ruby-playground" />
     <SUITE FILE_PATH="coverage/ruby-playground@test.coverage" NAME="test Coverage Results" MODIFIED="1459550505614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ruby-playground" />
     <SUITE FILE_PATH="coverage/ruby-playground@Run_spec__lesson3_spec___ruby_playground.coverage" NAME="Run spec 'lesson3_spec': ruby-playground Coverage Results" MODIFIED="1459845657695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson03-Assignment01-Classes/student-start" MODULE_NAME="ruby-playground" />
     <SUITE FILE_PATH="coverage/ruby-playground@module2_lesson1_formative.coverage" NAME="module2_lesson1_formative Coverage Results" MODIFIED="1459502770404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson01-Assignment01-Case-Statement/student-start" MODULE_NAME="ruby-playground" />
-    <SUITE FILE_PATH="coverage/ruby-playground@lesson2__ruby_playground.coverage" NAME="lesson2: ruby-playground Coverage Results" MODIFIED="1459503094124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson02-Assignment01-Collections/student-start" MODULE_NAME="ruby-playground" />
-    <SUITE FILE_PATH="coverage/ruby-playground@All_specs_in_student_start__ruby_playground.coverage" NAME="All specs in student-start: ruby-playground Coverage Results" MODIFIED="1459502900561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson01-Assignment01-Case-Statement/student-start" MODULE_NAME="ruby-playground" />
     <SUITE FILE_PATH="coverage/ruby-playground@module2_lesson2_formative.coverage" NAME="module2_lesson2_formative Coverage Results" MODIFIED="1459562737564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson02-Assignment01-Collections/student-start" MODULE_NAME="ruby-playground" />
     <SUITE FILE_PATH="coverage/ruby-playground@Run_spec__lesson2_spec___ruby_playground.coverage" NAME="Run spec 'lesson2_spec': ruby-playground Coverage Results" MODIFIED="1459562753796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson02-Assignment01-Collections/student-start" MODULE_NAME="ruby-playground" />
     <SUITE FILE_PATH="coverage/ruby-playground@module2_lesson3_formative.coverage" NAME="module2_lesson3_formative Coverage Results" MODIFIED="1459845663845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson03-Assignment01-Classes/student-start" MODULE_NAME="ruby-playground" />
+    <SUITE FILE_PATH="coverage/ruby-playground@All_tests_in_student_start__ruby_playground.coverage" NAME="All tests in student-start: ruby-playground Coverage Results" MODIFIED="1459502913058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson02-Assignment01-Collections/student-start" MODULE_NAME="ruby-playground" />
+    <SUITE FILE_PATH="coverage/ruby-playground@spec_helper.coverage" NAME="spec_helper Coverage Results" MODIFIED="1459503108154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson02-Assignment01-Collections/student-start/spec" MODULE_NAME="ruby-playground" />
+    <SUITE FILE_PATH="coverage/ruby-playground@lesson2__ruby_playground.coverage" NAME="lesson2: ruby-playground Coverage Results" MODIFIED="1459503094124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson02-Assignment01-Collections/student-start" MODULE_NAME="ruby-playground" />
+    <SUITE FILE_PATH="coverage/ruby-playground@All_specs_in_student_start__ruby_playground.coverage" NAME="All specs in student-start: ruby-playground Coverage Results" MODIFIED="1459502900561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments_M2L1/Lesson01-Assignment01-Case-Statement/student-start" MODULE_NAME="ruby-playground" />
+    <SUITE FILE_PATH="coverage/ruby-playground@module2_assignment.coverage" NAME="module2_assignment Coverage Results" MODIFIED="1460017910388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignment-Calc-Max-Word-Freq" MODULE_NAME="ruby-playground" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -40,31 +40,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.rb">
+      <file leaf-file-name="solution.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment-Calc-Max-Word-Freq/solution.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="module2_lesson3_formative.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assignments_M2L1/Lesson03-Assignment01-Classes/student-start/module2_lesson3_formative.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="module2_lesson3_formative.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assignments_M2L1/Lesson03-Assignment01-Classes/solution/module2_lesson3_formative.rb">
+        <entry file="file://$PROJECT_DIR$/Assignments_M2L1/Lesson03-Assignment01-Classes/student-start/module2_lesson3_formative.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-102">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="579">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module2_assignment.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignment-Calc-Max-Word-Freq/module2_assignment.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -82,6 +82,7 @@
         <option value="$PROJECT_DIR$/Assignments_M2L1/Lesson02-Assignment01-Collections/student-start/module2_lesson2_formative.rb" />
         <option value="$PROJECT_DIR$/test.rb" />
         <option value="$PROJECT_DIR$/Assignments_M2L1/Lesson03-Assignment01-Classes/student-start/module2_lesson3_formative.rb" />
+        <option value="$PROJECT_DIR$/assignment-Calc-Max-Word-Freq/module2_assignment.rb" />
       </list>
     </option>
   </component>
@@ -121,8 +122,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -130,15 +129,9 @@
               <option name="myItemId" value="ruby-playground" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ruby-playground" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ruby-playground" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -148,14 +141,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ruby-playground" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assignments_M2L1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson03-Assignment01-Classes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -169,15 +154,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Assignments_M2L1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson03-Assignment01-Classes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="student-start" />
+              <option name="myItemId" value="assignment-Calc-Max-Word-Freq" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -191,15 +168,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Assignments_M2L1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lesson03-Assignment01-Classes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="student-start" />
+              <option name="myItemId" value="assignment-Calc-Max-Word-Freq" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -225,7 +194,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="solution" />
+              <option name="myItemId" value="student-start" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,6 +214,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,22 +241,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="840" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
-  <component name="RunManager" selected="Ruby.module2_lesson3_formative">
-    <configuration default="false" name="spec_helper" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="ruby-playground" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Assignments_M2L1/Lesson02-Assignment01-Collections/student-start/spec" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Assignments_M2L1/Lesson02-Assignment01-Collections/student-start/spec/spec_helper.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Ruby.module2_assignment">
     <configuration default="false" name="test" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby-playground" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -357,6 +313,21 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Assignments_M2L1/Lesson03-Assignment01-Classes/student-start/module2_lesson3_formative.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="module2_assignment" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby-playground" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/assignment-Calc-Max-Word-Freq" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/assignment-Calc-Max-Word-Freq/module2_assignment.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
@@ -491,19 +462,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.spec_helper" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.test" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.module2_lesson2_formative" />
-      <item index="3" class="java.lang.String" itemvalue="RSpec.Run spec 'lesson3_spec': ruby-playground" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.module2_lesson3_formative" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.test" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.module2_lesson2_formative" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.Run spec 'lesson3_spec': ruby-playground" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.module2_lesson3_formative" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.module2_assignment" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.module2_lesson3_formative" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'lesson3_spec': ruby-playground" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.module2_lesson2_formative" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.test" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.spec_helper" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.module2_assignment" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.module2_lesson3_formative" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.Run spec 'lesson3_spec': ruby-playground" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.module2_lesson2_formative" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.test" />
       </list>
     </recent_temporary>
   </component>
@@ -523,7 +494,8 @@
       <workItem from="1459489240255" duration="79000" />
       <workItem from="1459489335453" duration="7402000" />
       <workItem from="1459560410890" duration="2103000" />
-      <workItem from="1459587436277" duration="1075000" />
+      <workItem from="1459587436277" duration="3463000" />
+      <workItem from="1460013703467" duration="2438000" />
     </task>
     <servers />
   </component>
@@ -560,18 +532,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10659000" />
+    <option name="totallyTimeSpent" value="15485000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18814056" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26427525" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5179407" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23088923" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -603,6 +575,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assignment-Calc-Max-Word-Freq/solution.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments_M2L1/Lesson03-Assignment01-Classes/student-start/module2_lesson3_formative.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment-Calc-Max-Word-Freq/module2_assignment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -690,18 +686,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments_M2L1/Lesson03-Assignment01-Classes/solution/module2_lesson3_formative.rb">
+    <entry file="file://$PROJECT_DIR$/Assignments_M2L1/Lesson03-Assignment01-Classes/solution/module2_lesson3_formative.rb" />
+    <entry file="file://$PROJECT_DIR$/Assignments_M2L1/Lesson03-Assignment01-Classes/student-start/spec/lesson3_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
+        <state relative-caret-position="-51">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment-Calc-Max-Word-Freq/spec/solution_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-368">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assignment-Calc-Max-Word-Freq/spec/line_analyzer_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment-Calc-Max-Word-Freq/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assignments_M2L1/Lesson03-Assignment01-Classes/student-start/module2_lesson3_formative.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="579">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment-Calc-Max-Word-Freq/solution.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment-Calc-Max-Word-Freq/module2_assignment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
           <folding />
         </state>
       </provider>
